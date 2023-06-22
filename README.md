@@ -33,6 +33,7 @@ If you're looking for a dedicated software engineer with expertise in Azure, .NE
 
 ## Contact Me
 - rjcantare@yahoo.com
+- https://www.linkedin.com/in/rainiel-jhon-cantare-91b5a021a/
 
 ## Fun Fact
 - I play the Violin a bit.
